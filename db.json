@@ -7,12 +7,6 @@
       "likes": 5
     },
     {
-      "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
-    },
-    {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
@@ -23,12 +17,6 @@
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
       "likes": 4
-    },
-    {
-      "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
     },
     {
       "id": 6,
@@ -47,6 +35,17 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Link",
+      "image": "https://i.etsystatic.com/18744338/r/il/e2633e/2038918888/il_794xN.2038918888_ed9u.jpg",
+      "likes": "",
+      "id": 9
+    },
+    {
+      "name": "Link",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F646970302690829835%2F&psig=AOvVaw1jcnyJb-RPvdvVuAQs-qWZ&ust=1621456507577000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCjgq6K1PACFQAAAAAdAAAAABAD",
+      "id": 10
     }
   ]
 }
